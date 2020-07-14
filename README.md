@@ -59,3 +59,38 @@ ___
 ![Kishore Newton Logo](https://blog.kishorenewton.com/images/logo.png)
 
 <!-- Github Markdown -->
+
+<!-- Code Blocks -->
+
+```bash
+    npm install
+
+    npm start
+```
+
+```javascript
+    const add = (num1, num2) => {
+        return num1 + num2
+    }
+```
+
+```python
+    if(1)
+        return 'okay'
+    elif(2)
+        return 'not okay'
+    else
+        return 'well have a great day'
+```
+
+<!-- Tables -->
+| Name |    Email      |
+| ---- | ------------- |
+| Kai  | kai@kai.com   |
+| man  | man@man.com   |
+| cat  | cat@cat.com   |
+
+<!-- Task List -->
+* [x] task 1
+* [x] task 2
+* [ ] task 3
